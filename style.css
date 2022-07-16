@@ -93,6 +93,7 @@ body {
 .item2 {
     margin-top: 5px;
     color: rgb(152, 139, 139);
+    display: flex;
 }
 
 .botao {
@@ -128,6 +129,7 @@ a, .botao{
 .store{
     width: 120px;
     height: 35px;
+    margin: 2px;
     
 }
 
@@ -142,6 +144,7 @@ a, .botao{
     .instagram-login{
         width: 90%;
     }
+
 
 }
 
@@ -176,7 +179,6 @@ a, .botao{
     }
 
     .container3{width: 300px;}
+
+
 }
-    
-
-
